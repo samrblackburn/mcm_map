@@ -31,17 +31,17 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
   <script>
-    // 1. Initialize the map
+    // Initialize the map
     // [0, 0] is the center, 2 is the zoom level
     var map = L.map('map').setView([0, 0], 2);
 
-    // 2. Add Google Satellite Tiles
+    // Add Google Satellite Tiles - development API, so no key required, but will shut off if too many requests are made
     var googleSat = L.tileLayer('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
       maxZoom: 20,
       attribution: 'Map data ©2024 Google'
     }).addTo(map);
 
-    // 3. Load your local GeoJSON file
+    // Load GeoJSON file of locations
     fetch('lter_locations.geojson')
       .then(function (response) {
         return response.json();
@@ -49,15 +49,15 @@
       .then(function (data) {
         // Add the GeoJSON to the map
         var geojsonLayer = L.geoJSON(data, {
-          // Optional: add a popup to each marker
+          // Add a popup to each marker
           onEachFeature: function (feature, layer) {
-            if (feature.properties && feature.properties.name) {
-              layer.bindPopup(feature.properties.name);
+            if (feature.properties && feature.properties.Location) {
+              layer.bindPopup(feature.properties.Location);
             }
           }
         }).addTo(map);
 
-        // 4. Automatically zoom the map to fit your markers
+        // Automatically zoom the map to fit your markers
         map.fitBounds(geojsonLayer.getBounds());
       })
       .catch(function (error) {
