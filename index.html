@@ -52,7 +52,7 @@
           // Add a popup to each marker
           onEachFeature: function (feature, layer) {
             if (feature.properties && feature.properties.Location) {
-              layer.bindPopup(feature.properties.Location);
+              layer.bindTooltip(feature.properties.Location);
             }
           }
         }).addTo(map);
