@@ -1,0 +1,1181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "McMurdo Station",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.670883,
+          -77.84935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Hoare Camp",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.900924,
+          -77.623071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Bonney Camp",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.451867,
+          -77.714907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Fryxell Camp",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.125067,
+          -77.605791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "F6 Camp",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.255609,
+          -77.608309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "New Harbor Camp",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.519474,
+          -77.577671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Taylor Glacier",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.92861,
+          -77.75183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Nussbaum Riegel",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.25795,
+          -77.72374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Beacon Valley",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.5385,
+          -77.874233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Wright Valley (lower)",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.6535339,
+          -77.4445343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Vanda",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.688806,
+          -77.526221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Vida",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.81785,
+          -77.38225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Garwood Valley (Soils)",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.88684,
+          -78.01838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Garwood Valley (Upper/Steam)",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.914797,
+          -78.022241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Garwood Valley (algae)",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.919708,
+          -78.023145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Miers",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.858093,
+          -78.093601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Granite Harbor",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.733,
+          -76.883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Bonney east lobe",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.434528,
+          -77.71211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Bonney west lobe",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.283848,
+          -77.718515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Canada Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.0547333,
+          -77.6136551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Green Creek",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.0597534,
+          -77.6240997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lost Seal Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.2444,
+          -77.5952683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lawson Stream (west Bonney)",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.2680511,
+          -77.7227783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Bohner Stream (east Bonney)",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.5636597,
+          -77.6972961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Commonwealth Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.3808289,
+          -77.5633316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Onyx River at Lower Wright Hut",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.6535339,
+          -77.4445343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Onyx River at Vanda",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.6966248,
+          -77.5234299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Miers Stream gauge",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.9182378,
+          -78.0995162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Adams Stream gauge",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.7381165,
+          -78.1038097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "House Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.7413177,
+          -77.6429825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Wales Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.483421,
+          -77.583366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Adams Glacier",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.4834333,
+          -78.1445166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Miers Outlet Stream Gauge",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.9182378,
+          -78.0995162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Commonwealth Glacier",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.9954613,
+          -77.5519325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Canada Glacier",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.9295269,
+          -77.60863469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Howard Glacier",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.0246209,
+          -77.696307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Joyce",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.634698,
+          -77.715403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Brownworth",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.728803,
+          -77.438633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Don Juan Pond",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.20155,
+          -77.551305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Cape Royds",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.172666,
+          -77.551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Miers Valley",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.77771,
+          -78.092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Hjorth Hill",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.66675,
+          -77.533366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Arena Valley",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.860018,
+          -77.857826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lower Beacon Valley",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.5385,
+          -77.874233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "University Valley",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.717946,
+          -77.861565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "The Dias",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.263561,
+          -77.55005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "The Labyrinth",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.959513,
+          -77.56056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Labyrinth",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.802092,
+          -77.552762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Alatna Valley",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.136823,
+          -76.890123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Wall Valley",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.869283,
+          -77.4895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Victoria Valley",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.68555,
+          -77.3386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "SSLH Soil Site",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.88066,
+          -77.63423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "SSLB Soil Site",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.31503,
+          -77.72459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "P3 Experimental Site",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.3254,
+          -77.597016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Fryxell SLIME sites",
+        "Source": "ASC (lake)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.157673,
+          -77.609648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Bonney Narrows",
+        "Source": "Google Earth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.36231,
+          -77.712344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Bonney SLIME sites",
+        "Source": "ASC (lake)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.431015,
+          -77.714608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lawson Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.2680511,
+          -77.7227783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Wormherder Creek",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.320462,
+          -77.728097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Bohner Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.5636597,
+          -77.6972961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Delta Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.1084442,
+          -77.6246185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Crescent Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.1844635,
+          -77.6190643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Relict Channel",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.29995,
+          -77.63271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Aiken Creek",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.2719421,
+          -77.6025162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Poppellwell Stream (Mummy Pond)",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.67897,
+          -77.657601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Garwood Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.919708,
+          -78.023145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Adams Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.7381165,
+          -78.1038097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Miers Outlet Stream",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.9182378,
+          -78.0995162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Miers Stream",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.15,
+          -78.116667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Miers Lake Ice",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.85162,
+          -78.0969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Miers Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.858093,
+          -78.093601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Vanda Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.69129,
+          -77.52567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Mt Fleming Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.2711,
+          -77.5326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Vida Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.8006,
+          -77.3778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lake Brownworth Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.7036,
+          -77.4335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Canada Glacier Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.9635,
+          -77.6127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Howard Glacier Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.0791,
+          -77.6715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Friis Hills Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.5162,
+          -77.7474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Taylor Glacier Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.25795,
+          -77.72374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Explorer's Cove Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.4175,
+          -77.5887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Commonwealth Glacier Met Station",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.2801,
+          -77.5637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Garwood Trib Helo Landing",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.9143,
+          -78.02301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Garwood BG Helo landing",
+        "Source": "LTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.15546,
+          -78.02739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Mount Loke",
+        "Source": "ASC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.535437,
+          -77.486333
+        ]
+      }
+    }
+  ]
+}

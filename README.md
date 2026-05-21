@@ -1,0 +1,1 @@
+Pulls coordinates from geojson file, use geojson.io to convert from csv to geojson
