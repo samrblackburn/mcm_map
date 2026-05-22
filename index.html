@@ -53,8 +53,8 @@
           pointToLayer: function (feature, latlng) {
             var color = (feature.properties && feature.properties.Color) ? feature.properties.Color : 'blue';
             var svgPin = `<svg xmlns="http://www.w3.org/2000/svg" width="25" height="41" viewBox="0 0 25 41">
-              <path d="M12.5 0C5.596 0 0 5.596 0 12.5c0 9.375 12.5 28.5 12.5 28.5S25 21.875 25 12.5C25 5.596 19.404 0 12.5 0z" fill="${color}" stroke="white" stroke-width="0.1"/>
-              <circle cx="12.5" cy="12.5" r="5" fill="white" opacity="0.8"/>
+              <path d="M12.5 0C5.596 0 0 5.596 0 12.5c0 9.375 12.5 28.5 12.5 28.5S25 21.875 25 12.5C25 5.596 19.404 0 12.5 0z" fill="${color}" stroke="white" stroke-width="0.2"/>
+              <circle cx="12.5" cy="12.5" r="5" fill="white" opacity="0.9"/>
             </svg>`;
             var icon = L.divIcon({
               html: svgPin,
