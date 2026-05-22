@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "Location": "McMurdo Station",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Hoare Camp",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Bonney Camp",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Fryxell Camp",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "Location": "F6 Camp",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "Location": "New Harbor Camp",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Taylor Glacier",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +110,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Nussbaum Riegel",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Beacon Valley",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +140,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Wright Valley (lower)",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +155,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Vanda",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +170,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Vida",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +185,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Garwood Valley (Soils)",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Garwood Valley (Upper/Steam)",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +215,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Garwood Valley (algae)",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +230,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Miers",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +245,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Granite Harbor",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +260,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Bonney east lobe",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Bonney west lobe",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +290,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Canada Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +305,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Green Creek",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +320,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lost Seal Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +335,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lawson Stream (west Bonney)",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +350,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Bohner Stream (east Bonney)",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -341,7 +365,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Commonwealth Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +380,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Onyx River at Lower Wright Hut",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +395,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Onyx River at Vanda",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +410,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Miers Stream gauge",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -397,7 +425,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Adams Stream gauge",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +440,8 @@
       "type": "Feature",
       "properties": {
         "Location": "House Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -425,7 +455,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Wales Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +470,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Adams Glacier",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +485,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Miers Outlet Stream Gauge",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +500,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Commonwealth Glacier",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -481,7 +515,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Canada Glacier",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +530,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Howard Glacier",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -509,7 +545,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Joyce",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -523,7 +560,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Brownworth",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +575,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Don Juan Pond",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +590,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Cape Royds",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -565,7 +605,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Miers Valley",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +620,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Hjorth Hill",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -593,7 +635,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Arena Valley",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -607,7 +650,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lower Beacon Valley",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +665,8 @@
       "type": "Feature",
       "properties": {
         "Location": "University Valley",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +680,8 @@
       "type": "Feature",
       "properties": {
         "Location": "The Dias",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -649,21 +695,8 @@
       "type": "Feature",
       "properties": {
         "Location": "The Labyrinth",
-        "Source": "LTER"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          169.959513,
-          -77.56056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Location": "Labyrinth",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -677,7 +710,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Alatna Valley",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -691,7 +725,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Wall Valley",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +740,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Victoria Valley",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +755,8 @@
       "type": "Feature",
       "properties": {
         "Location": "SSLH Soil Site",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -733,7 +770,8 @@
       "type": "Feature",
       "properties": {
         "Location": "SSLB Soil Site",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +785,8 @@
       "type": "Feature",
       "properties": {
         "Location": "P3 Experimental Site",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -761,7 +800,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Fryxell SLIME sites",
-        "Source": "ASC (lake)"
+        "Source": "ASC (lake)",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +815,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Bonney Narrows",
-        "Source": "Google Earth"
+        "Source": "Google Earth",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +830,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Bonney SLIME sites",
-        "Source": "ASC (lake)"
+        "Source": "ASC (lake)",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -803,7 +845,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lawson Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -817,7 +860,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Wormherder Creek",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +875,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Bohner Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -845,7 +890,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Delta Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -859,7 +905,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Crescent Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +920,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Relict Channel",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +935,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Aiken Creek",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +950,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Poppellwell Stream (Mummy Pond)",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +965,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Garwood Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -929,7 +980,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Adams Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -943,7 +995,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Miers Outlet Stream",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -957,7 +1010,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Miers Stream",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -971,7 +1025,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Miers Lake Ice",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -985,7 +1040,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Miers Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1055,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Vanda Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1013,7 +1070,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Mt Fleming Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1027,7 +1085,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Vida Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1100,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Lake Brownworth Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1055,7 +1115,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Canada Glacier Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1069,7 +1130,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Howard Glacier Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1145,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Friis Hills Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1097,7 +1160,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Taylor Glacier Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +1175,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Explorer's Cove Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +1190,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Commonwealth Glacier Met Station",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1139,7 +1205,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Garwood Trib Helo Landing",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1153,7 +1220,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Garwood BG Helo landing",
-        "Source": "LTER"
+        "Source": "LTER",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +1235,8 @@
       "type": "Feature",
       "properties": {
         "Location": "Mount Loke",
-        "Source": "ASC"
+        "Source": "ASC",
+        "Color": "blue"
       },
       "geometry": {
         "type": "Point",

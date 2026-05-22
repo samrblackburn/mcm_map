@@ -49,6 +49,22 @@
       .then(function (data) {
         // Add the GeoJSON to the map
         var geojsonLayer = L.geoJSON(data, {
+          // Color each pin marker using the feature's Color property
+          pointToLayer: function (feature, latlng) {
+            var color = (feature.properties && feature.properties.Color) ? feature.properties.Color : '#3388ff';
+            var svgPin = `<svg xmlns="http://www.w3.org/2000/svg" width="25" height="41" viewBox="0 0 25 41">
+              <path d="M12.5 0C5.596 0 0 5.596 0 12.5c0 9.375 12.5 28.5 12.5 28.5S25 21.875 25 12.5C25 5.596 19.404 0 12.5 0z" fill="${color}" stroke="white" stroke-width="1.5"/>
+              <circle cx="12.5" cy="12.5" r="5" fill="white" opacity="0.5"/>
+            </svg>`;
+            var icon = L.divIcon({
+              html: svgPin,
+              className: '',
+              iconSize: [25, 41],
+              iconAnchor: [12.5, 41],
+              tooltipAnchor: [0, -41]
+            });
+            return L.marker(latlng, { icon: icon });
+          },
           // Add a popup to each marker
           onEachFeature: function (feature, layer) {
             if (feature.properties && feature.properties.Location) {
